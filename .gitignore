@@ -289,6 +289,3 @@ __pycache__/
 *.ncrunchsolution
 *.ncrunchproject
 *.gdbk
-
-# Visual Studio Code Settings
-.vscode/
